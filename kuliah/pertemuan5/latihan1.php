@@ -19,6 +19,8 @@ echo"<hr>";
 // var_dumb() atau prnt_r()
 // digunakan saat debugging
 var_dump($hari);
+echo "<br>";
+print_r($bulan)
 
 
 
